@@ -1,2 +1,2 @@
-# tools
+# Contributor Experience tools
 A collection of tools for contributor experience work
